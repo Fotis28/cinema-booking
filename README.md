@@ -48,3 +48,11 @@ mvnw.cmd clean javafx:run      # Windows
 This was a one-person university project.
 
 - **[Fotis Singiridis](https://github.com/Fotis28)**
+
+## License
+
+Copyright (c) 2026 Fotis Singiridis. All rights reserved.
+
+This code is published for portfolio purposes: you are welcome to read it and run it locally,
+but it may not be reused, redistributed or used commercially without permission.
+See [LICENSE](LICENSE).
